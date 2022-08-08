@@ -1,0 +1,23 @@
+{
+  "name": "scientificinstrument",
+  "version": "1.0.0",
+  "description": "Iot Device Process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "npm install && node index"
+  },
+  "author": "Islem Ben Mlouka",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "moment": "^2.29.4",
+    "mqtt": "^4.3.7",
+    "pino": "^8.4.0",
+    "pino-pretty": "^8.1.0",
+    "request": "^2.88.2",
+    "serialport": "^10.4.0",
+    "tls": "^0.0.1",
+    "virtual-serialport": "^4.0.1"
+  }
+}

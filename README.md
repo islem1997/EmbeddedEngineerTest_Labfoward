@@ -51,4 +51,4 @@ To be able to communicate and send commands :
  - implementing better UI 
  - adding tls to the mqtt broker for security 
  - better strutring the Commands syntax and protocol betweeen the device and the driver
- ## thank you for considering for the position i must say i had fun doing this test as it kinda made me remember why i chose to specialize in IOT in the first place and I hope I talk to you soon :) 
+ ### thank you for considering me for the position. I must say i had fun doing this test as it kind of made me remember why i chose to specialize in IOT in the first place. and I hope I talk to you soon :) 
